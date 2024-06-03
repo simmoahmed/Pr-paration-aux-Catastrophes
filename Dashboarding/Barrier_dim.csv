@@ -1,0 +1,51 @@
+Barrier_Key,Barrier_Name,Maximum_Capacity,Foundation_Date,Closing_Date
+1,Medical Center A,150,2020-01-15,
+2,Emergency Shelter B,200,2019-08-22,2022-05-30
+3,Field Hospital C,100,2021-04-10,
+4,Health Clinic D,120,2018-10-05,2023-02-18
+5,Temporary Facility E,180,2019-12-18,
+6,Urgent Care Center F,130,2020-06-28,2022-09-15
+7,Mobile Clinic G,160,2021-01-22,
+8,Community Health Center H,140,2019-07-01,2024-06-30
+9,Medical Post I,110,2020-01-15,
+10,Primary Care Unit J,170,2018-05-20,2018-05-20
+11,Isolation Center K,120,2022-01-15,
+12,Triage Facility L,180,2021-08-22,2023-05-30
+13,Community Health Station M,90,2023-04-10,
+14,Emergency Response N,110,2020-10-05,
+15,Mobile Health Unit O,130,2022-02-18,
+16,Field Clinic P,150,2021-07-15,
+17,Primary Care Center Q,200,2022-01-22,
+18,Temporary Shelter R,140,2022-06-30,
+19,Medical Post S,170,2021-12-01,
+20,Health Center T,160,2020-05-30,2023-08-18
+21,Mobile Medical Unit U,130,2022-03-10,
+22,Urgent Care Facility V,150,2020-11-15,
+23,Community Health Hub W,110,2021-09-15,
+24,Isolation Center X,120,2020-07-01,
+25,Field Hospital Y,200,2023-02-18,
+26,Health Clinic Z,160,2022-04-15,
+27,Mobile Clinic AA,180,2021-10-28,
+28,Primary Care Unit AB,150,2022-05-15,
+29,Temporary Facility AC,120,2023-05-30,
+30,Emergency Shelter AD,170,2020-12-15,2023-07-30
+31,Mobile Health Unit AE,130,2022-08-01,
+32,Field Clinic AF,150,2021-04-10,
+33,Primary Care Center AG,200,2022-02-22,
+34,Temporary Shelter AH,140,2021-12-01,
+35,Medical Post AI,170,2022-05-15,
+36,Health Center AJ,160,2021-11-30,
+37,Mobile Medical Unit AK,120,2020-10-20,
+38,Urgent Care Facility AL,150,2021-07-15,
+39,Community Health Hub AM,110,2022-01-22,
+40,Isolation Center AN,120,2022-09-15,
+41,Triage Facility AO,180,2021-03-01,2023-02-18
+42,Community Health Station AP,90,2023-01-10,
+43,Emergency Response AQ,110,2022-06-15,
+44,Mobile Health Unit AR,130,2021-09-20,
+45,Field Clinic AS,150,2022-03-10,
+46,Primary Care Center AT,200,2021-08-28,
+47,Temporary Shelter AU,140,2022-04-15,
+48,Medical Post AV,170,2021-10-05,
+49,Health Center AW,160,2022-07-10,
+50,Mobile Clinic AX,180,2021-05-01,

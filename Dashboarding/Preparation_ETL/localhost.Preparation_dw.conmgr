@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Preparation_dw"
+  DTS:DTSID="{9F8F2473-5052-45A9-8A2D-73854212E651}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Preparation_dw;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Preparation_ETL-{9F8F2473-5052-45A9-8A2D-73854212E651}localhost.Preparation_dw;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

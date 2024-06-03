@@ -1,0 +1,26 @@
+Geography_Key,Region,Province,Municipality,Latitude,Longitude,MunicipalityArea
+1,Tanger-T�touan-Al Hoceima,Tanger-T�touan-Al Hoceima,Tanger,35.7781,-5.8135,123
+2,Tanger-T�touan-Al Hoceima,Tanger-T�touan-Al Hoceima,Tetouan,35.5668,-5.3684,87
+3,Tanger-T�touan-Al Hoceima,Tanger-T�touan-Al Hoceima,Al Hoceima,35.2452,-3.9364,45
+4,L'Oriental,L'Oriental,F�s,34.0339,-5.0008,120
+5,L'Oriental,L'Oriental,Mekn�s,33.8938,-5.5475,88
+6,L'Oriental,L'Oriental,Ifrane,33.5296,-5.1130,64
+7,F�s-Mekn�s,F�s-Mekn�s,Marrakech,31.6295,-7.9811,230
+8,F�s-Mekn�s,F�s-Mekn�s,Essaouira,31.5085,-9.7595,78
+9,F�s-Mekn�s,F�s-Mekn�s,Agadir,30.4202,-9.5981,124
+10,Beni Mellal-Kh�nifra,Beni Mellal-Kh�nifra,Beni Mellal,32.3373,-6.3554,95
+11,Beni Mellal-Kh�nifra,Beni Mellal-Kh�nifra,Kh�nifra,32.9312,-5.6637,72
+12,Rabat-Sal�-K�nitra,Rabat-Sal�-K�nitra,Rabat,33.9716,-6.8498,117
+13,Rabat-Sal�-K�nitra,Rabat-Sal�-K�nitra,Sal�,34.0533,-6.7985,56
+14,Casablanca-Settat,Casablanca-Settat,Casablanca,33.5731,-7.5898,220
+15,Casablanca-Settat,Casablanca-Settat,Settat,33.0011,-7.6160,43
+16,Marrakech-Safi,Marrakech-Safi,Marrakech,31.6295,-7.9811,230
+17,Marrakech-Safi,Marrakech-Safi,Essaouira,31.5085,-9.7595,78
+18,Dr�a-Tafilalet,Dr�a-Tafilalet,Ouarzazate,30.9406,-6.9372,84
+19,Dr�a-Tafilalet,Dr�a-Tafilalet,Tinghir,31.5120,-5.5375,67
+20,Souss-Massa,Souss-Massa,Agadir,30.4202,-9.5981,124
+21,Souss-Massa,Souss-Massa,Tiznit,29.6968,-9.7325,45
+22,Guelmim-Oued Noun,Guelmim-Oued Noun,Guelmim,28.9861,-10.0579,142
+23,Guelmim-Oued Noun,Guelmim-Oued Noun,Tan-Tan,28.4388,-11.0990,68
+24,La�youne-Sakia El Hamra,La�youne-Sakia El Hamra,La�youne,27.1558,-13.1625,115
+25,Dakhla-Oued Ed Dahab,Dakhla-Oued Ed Dahab,Dakhla,23.6848,-15.9575,150
